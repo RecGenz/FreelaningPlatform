@@ -1,4 +1,4 @@
-# Freelancing Platform Development
+# RecGenz Freelancing Platform Development
 
 ## Project Overview
 
@@ -28,7 +28,7 @@ We are thrilled to announce the commencement of our freelancing platform develop
 
 ### Design
 
-Our design, meticulously crafted on Figma, serves as the blueprint for a seamless user experience. The design link provides a comprehensive view of the platform's visual identity and functionality. Please explore the design [here](Figma Design Link).
+Our design, meticulously crafted on Figma, serves as the blueprint for a seamless user experience. The design link provides a comprehensive view of the platform's visual identity and functionality. Please explore the design (https://shorturl.at/wHJK4).
 
 ## Getting Started
 
@@ -36,7 +36,7 @@ To contribute to the project and set up your development environment, follow the
 
 1. **Clone the Repository:**
    ```bash
-   git clone [repository-url]
+   git clone https://github.com/RecGenz/FreelaningPlatform.git
    ```
 
 2. **Install Dependencies:**
