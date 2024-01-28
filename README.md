@@ -28,7 +28,7 @@ We are thrilled to announce the commencement of our freelancing platform develop
 
 ### Design
 
-Our design, meticulously crafted on Figma, serves as the blueprint for a seamless user experience. The design link provides a comprehensive view of the platform's visual identity and functionality. Please explore the design (https://shorturl.at/wHJK4).
+Anyone around the globe can contribute to this design. Our design, meticulously crafted on Figma, serves as the blueprint for a seamless user experience. The design link provides a comprehensive view of the platform's visual identity and functionality. Please explore the design (https://shorturl.at/wHJK4).
 
 ## Getting Started
 
